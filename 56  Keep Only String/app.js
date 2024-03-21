@@ -1,4 +1,4 @@
-Mixed bag of items
+//Mixed bag of items
 var array = ["Waqar", true, "Pakisan", 786, "Ali", false, "America"];
 //pick out only the words
 var stringsArray = array.filter(function (item) { return typeof item === "string"; });
